@@ -1,0 +1,45 @@
+
+./dist/build/autogen/Paths_dlx.hs,956
+module Paths_dlx Paths_dlx0,1
+catchIO catchIO11,12
+catchIO catchIO12,13
+version version15,16
+version version16,17
+bindir, libdir, datadir, libexecdir, sysconfdir sysconfdir17,18
+bindir, libdir, datadir, libexecdir,libexecdir17,18
+bindir, libdir, datadir,datadir17,18
+bindir, libdir,libdir17,18
+bindir,bindir17,18
+bindir bindir19,20
+libdir libdir20,21
+datadir datadir21,22
+libexecdir libexecdir22,23
+sysconfdir sysconfdir23,24
+getBinDir, getLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir25,26
+getBinDir, getLibDir, getDataDir, getLibexecDir,getLibexecDir25,26
+getBinDir, getLibDir, getDataDir,getDataDir25,26
+getBinDir, getLibDir,getLibDir25,26
+getBinDir,getBinDir25,26
+getBinDir getBinDir26,27
+getLibDir getLibDir27,28
+getDataDir getDataDir28,29
+getLibexecDir getLibexecDir29,30
+getSysconfDir getSysconfDir30,31
+getDataFileName getDataFileName32,33
+getDataFileName getDataFileName33,34
+
+./Setup.hs,15
+main main1,2
+
+./src/Algorithms/DLX.hs,328
+module Algorithms.DLX Algorithms.DLX2,3
+x x12,13
+x x13,14
+toSparse toSparse15,16
+toSparse toSparse16,17
+solve solve18,19
+solve solve19,20
+removeViolationsOld removeViolationsOld29,30
+removeViolationsOld removeViolationsOld30,31
+removeViolations removeViolations33,34
+removeViolations removeViolations34,35
